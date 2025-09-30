@@ -1,6 +1,6 @@
 # E-Commerce-Sales-Analysis
 ## Business Problem
-## You need to calculate the monthly sales of the store and identify which month had the
+## 1.You need to calculate the monthly sales of the store and identify which month had the
 ## highest sales and which month had the lowest sales.
 ## 2.You need to analyze sales based on product categories and determine which category has
 ## the lowest sales and which category has the highest sales.
